@@ -54,8 +54,7 @@ const projects = [
       { name: "material-ui", color: "pink-text-gradient" },
     ],
     image: prifolio,
-    source_code_link:
-      "https://github.com/priyadarshnni/NirbhavAutomation-website",
+    source_code_link: "https://github.com/priyadarshnni/Prifolio/tree/main",
   },
 ];
 
