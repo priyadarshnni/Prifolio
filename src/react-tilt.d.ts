@@ -1,4 +1,4 @@
-declare module 'react-tilt' {
+declare module 'react-parallax-tilt' {
   import React from 'react';
 
   export interface TiltOptions {
