@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Tilt from "react-tilt";
+import Tilt from "react-parallax-tilt";
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
@@ -101,6 +101,7 @@ const ProjectCard = ({
             </div>
           </div>
         </div>
+
 
         <div className="mt-5 text-center">
           <h3 className="text-white font-bold text-[20px]">{name}</h3>

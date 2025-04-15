@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import { styles } from "../styles";
-import { ComputersCanvas } from "./canvas";
 import Typed from "react-typed";
 
 const Hero = () => (
